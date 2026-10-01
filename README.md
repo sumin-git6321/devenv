@@ -1,5 +1,8 @@
 # devenv
 
+> Copied from [kang-sw/devenv](https://github.com/kang-sw/devenv) under the
+> Apache License 2.0. Upstream changes are pulled from that repository.
+
 Personal developer environment and local `ws` workflow workspace.
 
 This repo started as dotfiles and a workstation bootstrap script. It now also
